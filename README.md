@@ -2,7 +2,7 @@
 
 Calculates the median absolute deviation of a set of data points in-place.
 
-[![Travis](https://img.shields.io/travis/[username]/[repo].svg)](https://travis-ci.org/[username]/[repo])
+[![Travis](https://img.shields.io/travis/atlassubbed/atlas-mad.svg)](https://travis-ci.org/atlassubbed/atlas-mad)
 
 ---
 

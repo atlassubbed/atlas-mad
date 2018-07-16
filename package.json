@@ -6,8 +6,25 @@
     "test-server": "mocha --colors --watch --recursive './test/**/*.test.js'",
     "test": "mocha --colors --recursive './test/**/*.test.js'"
   },
-  "main": "./src/index.js",
-  "keywords": [],
+  "main": "./src/mad.js",
+  "keywords": [
+    "atlassubbed",
+    "math",
+    "stats",
+    "utils",
+    "utility",
+    "arithmetic",
+    "helpers",
+    "statistics",
+    "median",
+    "deviation",
+    "absolute-deviation",
+    "median-deviation",
+    "median-absolute-deviation",
+    "robust-deviation",
+    "mad",
+    "middle"
+  ],
   "author": "atlassubbed <atlassubbed@gmail.com>",
   "license": "Apache-2.0",
   "devDependencies": {
@@ -21,5 +38,8 @@
   "engines": {
     "node": "^10.1.0",
     "npm": "^6.0.1"
+  },
+  "dependencies": {
+    "atlas-median": "^1.0.0"
   }
 }
